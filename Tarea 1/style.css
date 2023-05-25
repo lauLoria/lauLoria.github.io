@@ -21,6 +21,14 @@ header {
    color: white;
   }
 
+  main{
+    text-align: center;
+}
+article {
+    font-size: 16px; /* Cambia el tamaño de fuente del artículo */
+    line-height: 1.5; /* Ajusta el espaciado entre líneas */
+    padding: 20px; /* Añade un espaciado interno */
+  }
   
 
 .navegador{
@@ -33,10 +41,11 @@ header {
 
     table {
         width: 45%;
+        margin: auto;
         margin-top: 100px;
         border: 1px solid #000;
-        text-align: center ;
-background-color:cadetblue;
+        text-align: center;
+        background-color: cadetblue;
      }
 
      ul {
